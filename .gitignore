@@ -1,0 +1,4 @@
+bin
+obj
+packages/
+*[Gg]host[Dd]oc.xml
