@@ -1,9 +1,8 @@
 using MvvmCross.Platform.Plugins;
 
-namespace BindingExample.Droid.Bootstrap
+namespace BindingIssue.Droid.Bootstrap
 {
     public class JsonPluginBootstrap
         : MvxPluginBootstrapAction<MvvmCross.Plugins.Json.PluginLoader>
-    {
-    }
+    { }
 }

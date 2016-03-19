@@ -1,12 +1,11 @@
 using Android.App;
 using Android.OS;
 using BindingIssue.Core.ViewModels;
-using BindingIssue.Droid;
 using MvvmCross.Droid.Support.V7.AppCompat;
 
-namespace BindingExample.Droid.Views
+namespace BindingIssue.Droid.Views
 {
-    [Activity(Label = "MainView", Theme = "@style/AppTheme")]
+    [Activity(Label = "Binding Issue", Theme = "@style/AppTheme")]
     public class MainView : MvxCachingFragmentCompatActivity<MainViewModel>
     {
         protected override void OnCreate(Bundle bundle)

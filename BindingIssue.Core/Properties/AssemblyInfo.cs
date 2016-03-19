@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BindingExample.Core")]
+[assembly: AssemblyTitle("BindingIssue.Core")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Accruent")]
-[assembly: AssemblyProduct("BindingExample.Core")]
-[assembly: AssemblyCopyright("Copyright © Accruent 2016")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("BindingIssue.Core")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]
